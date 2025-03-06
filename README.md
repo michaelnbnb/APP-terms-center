@@ -16,6 +16,8 @@
     - `/privacy/` - 隐私政策
       - `en.html` - 英文版本
       - `zh.html` - 中文版本
+    - `/support/` - 隐私政策
+      - `en.html` - 英文版本
   - `/app2/` - APP2 的条款
   - `/app3/` - APP3 的条款
 
